@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 /**
  * Created by arabk on 08.07.2017.
  */
@@ -37,7 +39,7 @@ public class Main {
         System.out.println(lll);
         System.out.println(ggg);*/
 
-int counter = 0;
+/*int counter = 0;
 counter = counter +1;
 counter += 1;
 
@@ -55,8 +57,16 @@ String concat = "" + 'a' + "" + (15 + 15) +"ala" + "ma" + 15 + "kotow" + 'a';
         String concat2 = 'a' + (15 + 15) +"ala" + "ma" + 15 + "kotow" + 'a';
         // new StringBuilder() to do uzycia
         System.out.println(concat);
-        System.out.print(concat2);
+        System.out.print(concat2);*/
+/*
+Scanner scanner = new Scanner(System.in);
+int fromScanner = scanner.nextInt();
+        System.out.println("Z konsoli:\n" + fromScanner);*/
 
+
+        int a = 2;
+        int b = 4;
+        System.out.println(a+b);
 
 
     }
