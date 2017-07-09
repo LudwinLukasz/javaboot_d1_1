@@ -18,6 +18,12 @@ public class TabliceTask1 {
         for (int i = arrayLength-1; i >= 0 ;i--) {
             System.out.println(array[i]);
         }
+        int min = array[0];
+        for (int tmp:array
+             ) {
+            if (min>tmp) min = tmp;
+        }
+        System.out.println(min);
     }
 
 }
