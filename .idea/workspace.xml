@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc607467-9503-476d-a00d-a20828e9a5e9" name="Default" comment="" />
+    <list default="true" id="cc607467-9503-476d-a00d-a20828e9a5e9" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/CyferkiZStringa.java" afterPath="$PROJECT_DIR$/src/CyferkiZStringa.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/StringWycinka.java" afterPath="$PROJECT_DIR$/src/StringWycinka.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,6 +21,28 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
               <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Task2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="137">
+              <caret line="11" column="50" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Task3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="50" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -43,42 +68,45 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CyferkiZStringa.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/CyferkiZStringa.java">
+      <file leaf-file-name="RegCyferki.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/RegCyferki.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="42" lean-forward="true" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+            <state relative-caret-position="125">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JVM.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/JVM.java">
+      <file leaf-file-name="Task7.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Task7.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="29" column="37" lean-forward="false" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+            <state relative-caret-position="50">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="StringWycinka.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/StringWycinka.java">
+      <file leaf-file-name="WyrazyTeSame.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/WyrazyTeSame.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            <state relative-caret-position="250">
+              <caret line="10" column="62" lean-forward="false" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Srednia.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Srednia.java">
+      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
-              <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-              <folding />
+            <state relative-caret-position="183">
+              <caret line="3097" column="25" lean-forward="false" selection-start-line="3097" selection-start-column="25" selection-end-line="3097" selection-end-column="25" />
+              <folding>
+                <element signature="e#121727#121728#0" expanded="true" />
+                <element signature="e#121769#121770#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -122,9 +150,12 @@
         <option value="$PROJECT_DIR$/src/Srednia.java" />
         <option value="$PROJECT_DIR$/src/TaskTrzyLiczby.java" />
         <option value="$PROJECT_DIR$/src/Wyraz.java" />
-        <option value="$PROJECT_DIR$/src/CyferkiZStringa.java" />
         <option value="$PROJECT_DIR$/src/JVM.java" />
         <option value="$PROJECT_DIR$/src/StringWycinka.java" />
+        <option value="$PROJECT_DIR$/src/CyferkiZStringa.java" />
+        <option value="$PROJECT_DIR$/src/RegCyferki.java" />
+        <option value="$PROJECT_DIR$/src/Task7.java" />
+        <option value="$PROJECT_DIR$/src/WyrazyTeSame.java" />
       </list>
     </option>
   </component>
@@ -198,37 +229,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StringWycinka">
-    <configuration default="false" name="Srednia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Srednia" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="FirstApp" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Wyraz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="Wyraz" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="FirstApp" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.WyrazyTeSame">
     <configuration default="false" name="CyferkiZStringa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="CyferkiZStringa" />
@@ -262,6 +263,36 @@
     <configuration default="false" name="StringWycinka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="StringWycinka" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="FirstApp" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Task7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Task7" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="FirstApp" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="WyrazyTeSame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="WyrazyTeSame" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -479,19 +510,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Srednia" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Wyraz" />
-      <item index="2" class="java.lang.String" itemvalue="Application.CyferkiZStringa" />
-      <item index="3" class="java.lang.String" itemvalue="Application.JVM" />
-      <item index="4" class="java.lang.String" itemvalue="Application.StringWycinka" />
+      <item index="0" class="java.lang.String" itemvalue="Application.CyferkiZStringa" />
+      <item index="1" class="java.lang.String" itemvalue="Application.JVM" />
+      <item index="2" class="java.lang.String" itemvalue="Application.StringWycinka" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Task7" />
+      <item index="4" class="java.lang.String" itemvalue="Application.WyrazyTeSame" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.StringWycinka" />
-        <item index="1" class="java.lang.String" itemvalue="Application.JVM" />
+        <item index="0" class="java.lang.String" itemvalue="Application.WyrazyTeSame" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Task7" />
         <item index="2" class="java.lang.String" itemvalue="Application.CyferkiZStringa" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Wyraz" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Srednia" />
+        <item index="3" class="java.lang.String" itemvalue="Application.StringWycinka" />
+        <item index="4" class="java.lang.String" itemvalue="Application.JVM" />
       </list>
     </recent_temporary>
   </component>
@@ -578,6 +609,70 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/SkroconyIf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Srednia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JVM.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="29" column="37" lean-forward="false" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="1356" column="18" lean-forward="false" selection-start-line="1356" selection-start-column="18" selection-end-line="1356" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StringWycinka.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="35" lean-forward="false" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CyferkiZStringa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="10" column="42" lean-forward="false" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RegCyferki.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Wyraz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Task2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="137">
@@ -592,14 +687,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="7" column="50" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SkroconyIf.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
           <folding />
         </state>
       </provider>
@@ -628,58 +715,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Srednia.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
-          <caret line="975" column="19" lean-forward="false" selection-start-line="975" selection-start-column="19" selection-end-line="975" selection-end-column="19" />
+          <caret line="3097" column="25" lean-forward="false" selection-start-line="3097" selection-start-column="25" selection-end-line="3097" selection-end-column="25" />
+          <folding>
+            <element signature="e#121727#121728#0" expanded="true" />
+            <element signature="e#121769#121770#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Task7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CyferkiZStringa.java">
+    <entry file="file://$PROJECT_DIR$/src/WyrazyTeSame.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="42" lean-forward="true" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Wyraz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/JVM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="29" column="37" lean-forward="false" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Scanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="1356" column="18" lean-forward="false" selection-start-line="1356" selection-start-column="18" selection-end-line="1356" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/StringWycinka.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        <state relative-caret-position="250">
+          <caret line="10" column="62" lean-forward="false" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
           <folding />
         </state>
       </provider>
