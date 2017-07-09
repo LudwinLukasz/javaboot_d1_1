@@ -13,7 +13,6 @@ public class PetleSilnia {
                 silnia = silnia * i;
             }
         }
-
         System.out.print(silnia);
     }
 }
